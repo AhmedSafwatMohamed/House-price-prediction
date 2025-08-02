@@ -24,16 +24,6 @@ The dataset contains information on residential homes in Ames, Iowa. The goal is
 - Ridge & Lasso Regression
 - Jupyter Notebook
 
-## 📁 Project Structure
-
-```
-├── data/                 # Raw and cleaned dataset files
-├── notebooks/            # Jupyter notebooks with EDA, modeling, evaluation
-├── models/               # Saved trained models (if any)
-├── images/               # Visualizations and plots
-└── README.md             # Project description
-```
-
 ## 📊 Model Evaluation
 
 The models used in this project include:
